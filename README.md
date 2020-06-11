@@ -1,5 +1,5 @@
 # Local-Regression-LOESS
-implementation for the Local Regression LOESS
+implementation for the Local Regression [LOESS](https://en.wikipedia.org/wiki/Local_regression)
 
 Normally fit with polynomials:
 
